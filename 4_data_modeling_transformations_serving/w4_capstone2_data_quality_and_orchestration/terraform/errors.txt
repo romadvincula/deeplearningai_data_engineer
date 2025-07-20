@@ -1,0 +1,7 @@
+
+Error: creating Glue Data Quality Ruleset (songs_dq_ruleset): operation error Glue: CreateDataQualityRuleset, https response error StatusCode: 400, RequestID: 7694ed51-0d3e-49d4-b76e-23d117d54013, AlreadyExistsException: Another ruleset with the same name already exists: songs_dq_ruleset
+
+  with module.data_quality.aws_glue_data_quality_ruleset.songs_dq_ruleset,
+  on modules/data_quality/glue.tf line 1, in resource "aws_glue_data_quality_ruleset" "songs_dq_ruleset":
+   1: resource "aws_glue_data_quality_ruleset" "songs_dq_ruleset" {
+

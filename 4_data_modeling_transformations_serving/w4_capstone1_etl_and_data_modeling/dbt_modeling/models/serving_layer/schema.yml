@@ -1,0 +1,74 @@
+version: 2
+
+models:
+  - name: dim_users
+    description: "Users dimension"
+    columns:
+      - name: user_key
+        description: "PK of this table"
+        data_tests:
+          - unique
+          - not_null
+      - name: user_id
+      - name: user_lastname
+      - name: user_name
+      - name: user_since
+      - name: country_code
+
+  - name: dim_songs
+    description: "Songs dimension"
+    columns:
+      - name: song_key
+        description: "PK of this table"
+        data_tests:
+          - unique
+          - not_null
+      - name: song_id
+      - name: song_title
+      - name: track_id
+      - name: release
+      - name: duration
+      - name: year
+
+  - name: dim_date
+    description: "Date dimension"
+    columns:
+      - name: date_key
+        description: "PK of this table"
+        data_tests:
+          - unique
+          - not_null
+      - name: month
+      - name: year
+      - name: day_of_week
+
+  - name: dim_artists
+    description: "Artists dimension"
+    columns:
+      - name: artist_key
+        description: "PK of this table"
+        data_tests:
+          - unique
+          - not_null
+      - name: artist_id
+      - name: artist_name
+      - name: artist_familiarity
+      - name: artist_hotness
+
+  - name: fact_order_items
+    description: "Order Items Fact"
+    columns:
+      - name: fact_key
+        description: "PK of this table"
+        data_tests:
+          - unique
+          - not_null
+      - name: session_id
+      - name: song_id
+      - name: song_key
+      - name: user_key
+      - name: artist_key
+      - name: session_start_time
+      - name: price
+      - name: liked
+      - name: liked_since

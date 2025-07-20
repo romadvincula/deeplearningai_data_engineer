@@ -1,0 +1,37 @@
+2025-04-23 01:13:11 root         INFO     Starting PutRecord Producer
+2025-04-23 01:13:32 root         INFO     Starting PutRecord Producer
+2025-04-23 01:13:32 botocore.credentials INFO     Found credentials in shared credentials file: /home/coder/.aws/credentials
+2025-04-23 01:13:33 root         INFO     Produced record 49662626285752662607275846953586936795181260906396909602 to Shard shardId-000000000002
+2025-04-23 01:14:38 root         INFO     Starting PutRecord Producer
+2025-04-23 01:14:38 botocore.credentials INFO     Found credentials in shared credentials file: /home/coder/.aws/credentials
+2025-04-23 01:14:38 root         INFO     Produced record 49662626285752662607275846966749721119145347827363741730 to Shard shardId-000000000002
+2025-04-23 01:14:53 root         INFO     Starting PutRecord Producer
+2025-04-23 01:14:53 botocore.credentials INFO     Found credentials in shared credentials file: /home/coder/.aws/credentials
+2025-04-23 01:14:53 root         INFO     Produced record 49662626285752662607275846969334404521481426102397173794 to Shard shardId-000000000002
+2025-04-23 01:14:56 root         INFO     Starting PutRecord Producer
+2025-04-23 01:14:56 botocore.credentials INFO     Found credentials in shared credentials file: /home/coder/.aws/credentials
+2025-04-23 01:14:56 root         INFO     Produced record 49662626285752662607275846969801049887852673169992187938 to Shard shardId-000000000002
+2025-04-23 01:14:59 root         INFO     Starting PutRecord Producer
+2025-04-23 01:14:59 botocore.credentials INFO     Found credentials in shared credentials file: /home/coder/.aws/credentials
+2025-04-23 01:14:59 root         INFO     Produced record 49662626285752662607275846970300336251353515156584792098 to Shard shardId-000000000002
+2025-04-23 01:15:25 root         INFO     Starting PutRecord Producer
+2025-04-23 01:15:25 botocore.credentials INFO     Found credentials in shared credentials file: /home/coder/.aws/credentials
+2025-04-23 01:15:25 root         INFO     Produced record 49662626285752662607275846979057794888641890753582202914 to Shard shardId-000000000002
+2025-04-23 01:15:51 root         INFO     Starting PutRecord Producer
+2025-04-23 01:15:51 botocore.credentials INFO     Found credentials in shared credentials file: /home/coder/.aws/credentials
+2025-04-23 01:15:51 root         INFO     Produced record 49662626285774963352474377614509822228050309719108091954 to Shard shardId-000000000003
+2025-04-23 01:16:06 root         INFO     Starting PutRecord Producer
+2025-04-23 01:16:06 botocore.credentials INFO     Found credentials in shared credentials file: /home/coder/.aws/credentials
+2025-04-23 01:16:06 root         INFO     Produced record 49662626285752662607275846997988364297987371817804759074 to Shard shardId-000000000002
+2025-04-23 01:16:24 root         INFO     Starting PutRecord Producer
+2025-04-23 01:16:24 botocore.credentials INFO     Found credentials in shared credentials file: /home/coder/.aws/credentials
+2025-04-23 01:16:24 root         INFO     Produced record 49662626285774963352474377625804816160709792434850103346 to Shard shardId-000000000003
+2025-04-23 01:16:38 root         INFO     Starting PutRecord Producer
+2025-04-23 01:16:38 botocore.credentials INFO     Found credentials in shared credentials file: /home/coder/.aws/credentials
+2025-04-23 01:16:39 root         INFO     Produced record 49662626285774963352474377628154967954040632512551583794 to Shard shardId-000000000003
+2025-04-23 01:16:59 root         INFO     Starting PutRecord Producer
+2025-04-23 01:16:59 botocore.credentials INFO     Found credentials in shared credentials file: /home/coder/.aws/credentials
+2025-04-23 01:17:00 root         INFO     Produced record 49662626285774963352474377631388844521509766997999616050 to Shard shardId-000000000003
+2025-04-23 01:17:11 root         INFO     Starting PutRecord Producer
+2025-04-23 01:17:11 botocore.credentials INFO     Found credentials in shared credentials file: /home/coder/.aws/credentials
+2025-04-23 01:17:12 root         INFO     Produced record 49662626285730361862077316387121052426262058002576048146 to Shard shardId-000000000001
